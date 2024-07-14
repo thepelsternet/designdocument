@@ -9,6 +9,7 @@
         1. [Trust](#trust)
     3. [Website](#website)
 2. [Development](#development)
+    1. [Framework](#framework)
 
 
 ## About
@@ -42,4 +43,6 @@ The URL of _The Pelster Net_ website will be [thepelster.net](https://www.thepel
 
 ## Development
 
+### Framework
+The framework of choice will be the *Django* framework which primarily uses *Python*. This is primarily to give more people the possiblity of contributing new features and because it is what I am most familiar with.
 
